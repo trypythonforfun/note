@@ -7,3 +7,6 @@ https://onlinehextools.com/convert-ascii-to-hex
 
 ### makefile
 https://blog.csdn.net/zhengqijun_/article/details/83538031
+
+### my
+git@git.mib3.technisat-digital:wei.ye/my-awesome-project.git
