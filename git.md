@@ -13,3 +13,4 @@ git whatchanged --since='2 weeks ago'
 ### log
 commit 历史中显示 Branch1 有的，但是 Branch2 没有 commit
 git log Branch1 ^Branch2
+
