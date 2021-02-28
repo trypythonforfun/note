@@ -9,3 +9,12 @@ modify /etc/hosts
 echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/jackye/.zprofile
 eval $(/opt/homebrew/bin/brew shellenv)
 
+brew install python3
+==> python@3.9
+Python has been installed as
+  /opt/homebrew/bin/python3
+
+### conda
+https://github.com/conda-forge/miniforge
+Miniforge3-MacOSX-arm64.sh
+conda install numpy scipy matplotlib
